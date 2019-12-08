@@ -8,6 +8,7 @@ This is an Android mobile app for high school students needing homework help.
 Students can search for an answer on our forum or live chat with a tutor using our app.
 
 Team Name: Pandas
+
 Andrei Kassiantchouk, Avanthika Ramesh,
 Changze Cui, Clark Palmer, Tiffany Ho
 
