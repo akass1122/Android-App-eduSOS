@@ -2,7 +2,7 @@
 
 This is a team project for class CS160.
 
-For this project I used my github name akassian
+For this project I used my github names akassian and akas1122.
 
 This is an Android mobile app for high school students needing homework help.
 Students can search for an answer on our forum or live chat with a tutor using our app.
