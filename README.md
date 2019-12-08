@@ -9,7 +9,9 @@ Students can search for an answer on our forum or live chat with a tutor using o
 Team Name: Pandas
 Andrei Kassiantchouk, Avanthika Ramesh,
 Changze Cui, Clark Palmer, Tiffany Ho
-Project Title: eduSOS
+
+Project Title: eduSOS.
+
 Representative Tasks:
 1. A student can post a question to a question answer forum
 on eduSOS and wait for a tutor to eventually reply with an
@@ -30,4 +32,5 @@ student.
 5. A tutor can also open a live chat conversation with an
 online student when they are online in the application and
 assist within eduSOS.
+
 GIT Repository: https://github.com/Chazzzzzzz/eduSOS
