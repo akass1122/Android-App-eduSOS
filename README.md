@@ -1,6 +1,6 @@
 # eduSOS
 
-This is a team project for class CS160
+This is a team project for class CS160. 
 For this project I used my github name akassian
 
 This is an Android mobile app for high school students needing homework help.
