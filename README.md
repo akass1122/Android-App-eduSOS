@@ -1,38 +1,26 @@
 # eduSOS
 
-This is a team project for class CS160.
+This Android app is a team project.
 
-For this project I used my github names akassian and akas1122.
+## Intro
+EduSOS is a mobile platform that features a peer-to-peer knowledge-sharing network specifically targeted toward high school students. EduSOS aims to better connect knowledge seekers with knowledge sharers through a modernized application. 
 
-This is an Android mobile app for high school students needing homework help.
-Students can search for an answer on our forum or live chat with a tutor using our app.
+Edusos features a two-sided platform through which students can interact with tutors. The student-side functionalities include chatting with a live subject expert, browsing a Q&A database, and posting a question to a forum, while tutors can simultaneously answer live questions or forum-based questions and earn money. EduSOS is the on-demand tutoring service of the future as it provides affordable, curated, and timely tutoring services for high school students.
 
-Team Name: Pandas
+Watch our youtube video to quickly pick up our work: https://www.youtube.com/watch?v=PkH22Hx562w
 
-Andrei Kassiantchouk, Avanthika Ramesh,
-Changze Cui, Clark Palmer, Tiffany Ho
+## How to use
+Users can register as teachers/students using their google account. After logging in, students can
+1) post a question and wait for some teachers to answer
+2) browse questions that other people asked
+3) chat with online teachers and get instant assistance
 
-Project Title: eduSOS.
+Teachers can
+1) browse questions and answer
+2) chat with students and help them on their questions
 
-Representative Tasks:
-1. A student can post a question to a question answer forum
-on eduSOS and wait for a tutor to eventually reply with an
-answer. This method requires the student to not be in a big
-rush for an answer and expect a slight delay in response.
-2. A student can search for a previously answered question
-in the eduSOS database. This is the cheapest option for the
-student since it does not require active tutor involvement,
-and the answers based on the searched keyword will show
-up.
-3. A student can chat with an online tutor within eduSOS.
-This method is a live conversation and is typically used if
-the student is on a time crunch and needs assistance
-immediately.
-4. On the tutor side of the platform, a tutor can answer a
-question in the Q&A forum that has been posted by a
-student.
-5. A tutor can also open a live chat conversation with an
-online student when they are online in the application and
-assist within eduSOS.
 
-GIT Repository: https://github.com/Chazzzzzzz/eduSOS
+## Features
+1) Questions/Answers storage and keyword searching based on firebase realtime database
+2) Online teachers searching and realtime text chatting
+3) Nice user interface
